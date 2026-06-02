@@ -1,8 +1,8 @@
  Julio César Serrano Sandoval — Full-Stack Developer
  
-🚀 Building production web applications from El Salvador  
-💼 Specializing in **Next.js · TypeScript · Neon DB · React**  
-🌎 Bilingual (ES/EN) · Available for remote roles
+Building production web applications from El Salvador  
+Specializing in **Next.js · TypeScript · Neon DB · React**  
+Bilingual (ES/EN) · Available for remote roles
  
 ---
  
@@ -18,7 +18,7 @@
  
 ---
  
-## 🔥 Live Projects
+##Live Projects
  
 | Project | Description | Stack |
 |---|---|---|
@@ -29,7 +29,7 @@
  
 ---
  
-## 💼 Experience
+##Experience
  
 - **Founder & General Manager** — Animation Store SV (2019–Present)  
   Built and scaled an e-commerce platform (Laravel, PHP, MySQL) with Meta Ads & TikTok campaigns
@@ -37,7 +37,7 @@
   Supporting digital publishing workflows for 125,000+ students across 650+ universities
 ---
  
-## 📫 Contact
+## Contact
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julioserrasand/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jserranosandoval@gmail.com)
