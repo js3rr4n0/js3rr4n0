@@ -1,4 +1,4 @@
- Julio César Serrano Sandoval — Full-Stack Developer
+##  Julio César Serrano Sandoval — Full-Stack Developer
  
 Building production web applications from El Salvador  
 Specializing in **Next.js · TypeScript · Neon DB · React**  
